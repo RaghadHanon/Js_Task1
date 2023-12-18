@@ -1,0 +1,12 @@
+.demo{
+  padding: 20px;
+  box-shadow: 15px 10px 10px 5px rgba(233, 227, 227, 0.582);
+  border: 1px solid rgba(233, 227, 227, 0.582);
+
+  font-size: 18px;
+}
+.vip{
+  padding: 15px;
+  box-shadow: 15px 10px 10px 5px rgba(233, 227, 227, 0.582);
+  border: 1px solid rgba(233, 227, 227, 0.582);
+}
